@@ -1,1 +1,3 @@
+# ✅ Machine Learning Projects: Regression, Classification, and Imbalanced Data Handling
+
 This project focuses on handling an imbalanced dataset using undersampling (Cluster Centroids) and oversampling (SMOTE) techniques. After balancing the data, machine learning models such as Logistic Regression, KNN, and Decision Tree are trained and evaluated. The results highlight that accuracy alone is not sufficient for imbalanced datasets, and metrics like F1-score and AUROC provide better performance insights.
